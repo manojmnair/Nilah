@@ -1,4 +1,4 @@
-# Final Project - A Peer-to-peer NFT lending - Nilah
+# Final Project - A Peer-to-peer/Liquidity pool NFT lending - Nilah
 
 - User will be mint their NFTs
 - Store NFTs in IPFS
@@ -15,3 +15,5 @@
 - Frontend - React
 - Storage - IPFS
 
+#### Possible modifications
+- EIP-2615: Non-Fungible Token with mortgage and rental functions (Currently Stagnant)
