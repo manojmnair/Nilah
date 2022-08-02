@@ -17,3 +17,4 @@
 
 #### Possible modifications
 - EIP-2615: Non-Fungible Token with mortgage and rental functions (Currently Stagnant)
+- Can include virtual assets - crypto Art, virtual real estate, games collectibles, domains names 
